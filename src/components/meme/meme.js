@@ -98,6 +98,57 @@ function Meme() {
 
             </div>
         </div>
+        <div className="row mt-5">
+                <div className="col-12"><h4 className="text-capitalize fw-bold">Recently Joined</h4></div>
+                <div className="col-12 mt-3">
+                    <div className="container">
+                        <div className="row gy-3">
+                            <div className="col-4 col-sm-4 col-md-1 col-lg-1">
+                            <img style={{width: "70px", height: "70px", objectFit: "cover", borderRadius: "100%",}} src="https://cdn4.buysellads.net/uu/1/81016/1609783196-authentic-260x200-variation-3.jpg" className="img-fluid" alt="..." />
+                            </div>
+                            <div className="col-4 col-sm-4 col-md-1 col-lg-1">
+                            <img style={{width: "70px", height: "70px", objectFit: "cover", borderRadius: "100%",}} src="https://cdn4.buysellads.net/uu/1/81016/1609783196-authentic-260x200-variation-3.jpg" className="img-fluid" alt="..." />
+                            </div>
+                            <div className="col-4 col-sm-4 col-md-1 col-lg-1">
+                            <img style={{width: "70px", height: "70px", objectFit: "cover", borderRadius: "100%",}} src="https://cdn4.buysellads.net/uu/1/81016/1609783196-authentic-260x200-variation-3.jpg" className="img-fluid" alt="..." />
+                            </div>
+                            <div className="col-4 col-sm-4 col-md-1 col-lg-1">
+                            <img style={{width: "70px", height: "70px", objectFit: "cover", borderRadius: "100%",}} src="https://cdn4.buysellads.net/uu/1/81016/1609783196-authentic-260x200-variation-3.jpg" className="img-fluid" alt="..." />
+                            </div>
+                            <div className="col-4 col-sm-4 col-md-1 col-lg-1">
+                            <img style={{width: "70px", height: "70px", objectFit: "cover", borderRadius: "100%",}} src="https://cdn4.buysellads.net/uu/1/81016/1609783196-authentic-260x200-variation-3.jpg" className="img-fluid" alt="..." />
+                            </div>
+                            <div className="col-4 col-sm-4 col-md-1 col-lg-1">
+                            <img style={{width: "70px", height: "70px", objectFit: "cover", borderRadius: "100%",}} src="https://cdn4.buysellads.net/uu/1/81016/1609783196-authentic-260x200-variation-3.jpg" className="img-fluid" alt="..." />
+                            </div>
+                            <div className="col-4 col-sm-4 col-md-1 col-lg-1">
+                            <img style={{width: "70px", height: "70px", objectFit: "cover", borderRadius: "100%",}} src="https://cdn4.buysellads.net/uu/1/81016/1609783196-authentic-260x200-variation-3.jpg" className="img-fluid" alt="..." />
+                            </div>
+                            <div className="col-4 col-sm-4 col-md-1 col-lg-1">
+                            <img style={{width: "70px", height: "70px", objectFit: "cover", borderRadius: "100%",}} src="https://cdn4.buysellads.net/uu/1/81016/1609783196-authentic-260x200-variation-3.jpg" className="img-fluid" alt="..." />
+                            </div>
+                            <div className="col-4 col-sm-4 col-md-1 col-lg-1">
+                            <img style={{width: "70px", height: "70px", objectFit: "cover", borderRadius: "100%",}} src="https://cdn4.buysellads.net/uu/1/81016/1609783196-authentic-260x200-variation-3.jpg" className="img-fluid" alt="..." />
+                            </div>
+                            <div className="col-4 col-sm-4 col-md-1 col-lg-1">
+                            <img style={{width: "70px", height: "70px", objectFit: "cover", borderRadius: "100%",}} src="https://cdn4.buysellads.net/uu/1/81016/1609783196-authentic-260x200-variation-3.jpg" className="img-fluid" alt="..." />
+                            </div>
+                            <div className="col-4 col-sm-4 col-md-1 col-lg-1">
+                            <img style={{width: "70px", height: "70px", objectFit: "cover", borderRadius: "100%",}} src="https://cdn4.buysellads.net/uu/1/81016/1609783196-authentic-260x200-variation-3.jpg" className="img-fluid" alt="..." />
+                            </div>
+                            <div className="col-4 col-sm-4 col-md-1 col-lg-1">
+                            <img style={{width: "70px", height: "70px", objectFit: "cover", borderRadius: "100%",}} src="https://cdn4.buysellads.net/uu/1/81016/1609783196-authentic-260x200-variation-3.jpg" className="img-fluid" alt="..." />
+                            </div>
+                            <div className="col-4 col-sm-4 col-md-1 col-lg-1">
+                            <img style={{width: "70px", height: "70px", objectFit: "cover", borderRadius: "100%",}} src="https://cdn4.buysellads.net/uu/1/81016/1609783196-authentic-260x200-variation-3.jpg" className="img-fluid" alt="..." />
+                            </div>
+                            <div className="col-4 col-sm-4 col-md-1 col-lg-1">
+                            <img style={{width: "70px", height: "70px", objectFit: "cover", borderRadius: "100%",}} src="https://cdn4.buysellads.net/uu/1/81016/1609783196-authentic-260x200-variation-3.jpg" className="img-fluid" alt="..." />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
     </div>
     </>
   );
