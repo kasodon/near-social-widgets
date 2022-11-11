@@ -11,8 +11,8 @@ function Landing() {
         </div>
         <div style={{ borderRadius: "12px"}} className="row py-2">
             <div style={{fontFamily: "Tahoma, sans-serif"}} className="col-12 font-weight-bold">
-                <button style={{background: "transperent", border: "2px solid #3D7EFF",color: "#3D7EFF", fontWeight: "bold"}} className="btn btn mx-2 text-capitalize">Get Involved</button>
-                <button style={{background: "#3D7EFF", color: "#FEFFFE", fontWeight: "bold"}} className="btn mx-2 text-capitalize">View Profile</button>
+                <a style={{background: "transperent", border: "2px solid #3D7EFF",color: "#3D7EFF", fontWeight: "bold", textDecoration: "none"}} className="btn btn mx-2 text-capitalize">Get Involved</a>
+                <a href="" style={{background: "#3D7EFF", color: "#FEFFFE", fontWeight: "bold"}} className="btn mx-2 text-capitalize">View Profile</a>
             </div>
         </div>
         <div style={{fontFamily: "Tahoma, sans-serif", fontWeight: "bold"}} className="row gy-4 mt-4">
