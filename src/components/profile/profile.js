@@ -314,7 +314,7 @@ function Profile() {
       <div className="nft-single"><img src="https://images.unsplash.com/photo-1642525027649-00d7397a6d4a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80" />
       <a href="#">View Details</a>
       </div>
-      <div className="nft-single"><img src="https://images.unsplash.com/photo-1642525027649-00d7397a6d4a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80" />
+      <div className="nft-single"><img className="nft-image" src="https://images.unsplash.com/photo-1642525027649-00d7397a6d4a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80" />
       <a href="#">View Details</a>
       </div>
       <div className="nft-single"><img src="https://images.unsplash.com/photo-1642525027649-00d7397a6d4a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80" />
