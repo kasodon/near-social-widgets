@@ -259,6 +259,52 @@ function Profile() {
                     }
                 }
             }
+            .widget {
+                display: none;
+                    &.active {
+                display: flex;
+                flex-wrap: wrap;
+                justify-content: space-between;
+                    }
+                .widget-link {
+                    width: 18%;
+                padding-bottom: 18%;
+                margin-bottom: 2%;
+                background: #111315;
+                border-radius: 12px;
+                height: 60px;
+                padding: 15px;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                font-size: 20px;
+                color: #a4a5a5;
+                font-weight: bold;
+                text-decoration: none;
+                text-transform: capitalize;
+                &:hover {
+                    background: #3d7eff;
+                        color: #111315;
+                }
+                @media only screen and (max-width: 920px) {
+                    width: 32%;
+                }
+                @media only screen and (max-width: 780px) {
+                    width: 48%;
+                    margin-bottom: 5%;
+                    font-size: 18px;
+                }
+                @media only screen and (max-width: 540px) {
+                    width: 100%;
+                    font-size: 17px;
+                }
+                @media only screen and (max-width: 420px) {
+                    width: 100%;
+                    margin-bottom: 5%;
+                    font-size: 16px;
+                }
+                }
+            }
         }
     `;
 
@@ -327,7 +373,14 @@ function Profile() {
       <a href="#">View Details</a>
       </div>
   </div>
-  <div class="tab-pane fade" id="pills-widget" role="tabpanel" aria-labelledby="pills-widget-tab">...</div>
+  <div class="tab-pane fade widget" id="pills-widget" role="tabpanel" aria-labelledby="pills-widget-tab">
+  <a className="widget-link" href="#">widgets</a>
+  <a className="widget-link" href="#">widgets</a>
+  <a className="widget-link" href="#">widgets</a>
+  <a className="widget-link" href="#">widgets</a>
+  <a className="widget-link" href="#">widgets</a>
+  <a className="widget-link" href="#">widgets</a>
+  </div>
 </div>
         </Data>
 </Profile>
